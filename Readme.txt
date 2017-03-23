@@ -1,0 +1,2 @@
+This app helps one to manage his incoming calls while the he/she put phone in silent mode for eg while sleep,etc.First we must set a pin and a message ,then activate the app.when incomingcall arrives the call will be rejected by the application and a message is automatically sent to
+the caller with pin and the message that u set.If the caller wants to reach you then he must send a msg with pin to your number and on receiving the msg your phone gets into normal mode fromsilent mode and the default ringtone gets played until u manually react to it.
